@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sivakumar Jenushanth
+- 👋 Hi, I’m Sivakumar Jenushanth and a full-stack developer.
 - 👀 Experienced in designing responsive, user-friendly interfaces and implementing robust APIs.
 - 💞️ I’m looking to collaborate on ReactJs and NodeJS projects
 

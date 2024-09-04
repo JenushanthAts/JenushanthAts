@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JenushanthAts
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning .Net core (6) and Blazor webassembly
+- 👋 Hi, I’m Sivakumar Jenushanth
+- 👀 Experienced in designing responsive, user-friendly interfaces and implementing robust APIs.
 - 💞️ I’m looking to collaborate on ReactJs and NodeJS projects
 
 
